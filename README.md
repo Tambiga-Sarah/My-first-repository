@@ -24,3 +24,7 @@ Three skills I want to learn in my computing course are:
 ## My Favorite Technology
 My favorite technology is the computer.
 I chose the computer because it helps me study, play, learn programming, and do school activities. It also helps me develop my skills and prepare for my future career in IT.
+
+## My Reflection
+
+Git helps me manage changes to my work by saving each version in a commit. It allows me to see my project history and know what I changed. GitHub lets me store and share my project online.
